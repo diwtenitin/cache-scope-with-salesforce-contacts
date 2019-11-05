@@ -20,4 +20,21 @@
 		<nature>org.mule.tooling.core.muleStudioNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>java</name>
+			<type>2</type>
+			<location>D:/Assignments/cache-scope-with-salesforce-contacts/src/test</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>D:/Assignments/cache-scope-with-salesforce-contacts/src/test</location>
+		</link>
+		<link>
+			<name>test</name>
+			<type>2</type>
+			<location>D:/Assignments/cache-scope-with-salesforce-contacts/src/test</location>
+		</link>
+	</linkedResources>
 </projectDescription>
